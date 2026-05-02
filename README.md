@@ -1,3 +1,5 @@
+一个基于 Next.js 构建的 AI 对话应用，集成 GPT-5.2 API。
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
